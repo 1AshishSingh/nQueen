@@ -1,2 +1,2 @@
 # nQueen
-This is nQueen problem wwith backtracking using java.
+This is nQueen problem with backtracking using java.
